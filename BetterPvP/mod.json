@@ -1,0 +1,6 @@
+name: BetterPvP
+displayName: Mod [red]BetterPvP(potato)[]
+author: Potato is Yum
+description: Makes pvp harder and more enjoyable. Adds even more strategic elements to PvP. 
+minGameVersion: "104"
+dependancies: [ ]
